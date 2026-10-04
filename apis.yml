@@ -39,7 +39,6 @@ apis:
   - name: IP Address Details
     description: "Find geolocation with ip address"
     humanURL: https://ipinfo.io/
-    baseURL: https://ipinfo.io/
     tags:
       - Geocoding
     properties:
